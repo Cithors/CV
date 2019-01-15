@@ -12,6 +12,7 @@ Logo / Screen
 ![cv_screen](cv_screen.png)
 
 La progression
+![](http://progressed.io/bar/100)
 
 Ce site est achevé depuis Octobre 2018
 
